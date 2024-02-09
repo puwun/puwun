@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 
-<p align="left"> <a href="https://twitter.com/Pavankumar39310" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="pavan_more"  </p>
+<p align="left"> <a href="https://twitter.com/Pavankumar39310" target="blank"><img src="https://img.shields.io/twitter/follow/Pavankumar39310?logo=twitter&style=for-the-badge" alt="pavan_more"  </p>
 
 
 - 🔭 I’m currently working on **Pet Adoption Portal**
