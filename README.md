@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Pet Adoption Portal**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MERN , Flask**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **pavansmore@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
