@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **MERN , Flask**
 
