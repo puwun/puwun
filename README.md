@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,golang,typescript,nodejs,react,expressjs,nextjs,vue,vite,tailwind,flask,prisma,postgresql,sqlite,mongodb,redis,docker,aws,nginx,gitlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,golang,typescript,nodejs,react,expressjs,nextjs,vue,vite,tailwind,flask,fastapi,prisma,postgresql,sqlite,mongodb,redis,docker,aws,nginx,gitlab" />
   </a>
 </p>
 
