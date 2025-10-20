@@ -106,8 +106,7 @@
 
 <div style="line-height:0;margin:0;padding:0;">
   <img src="images/loader_rt.gif" alt="loader" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
-
-<a href="https://freeimage.host/"><img src="https://iili.io/KSztZt2.gif" alt="KSztZt2.gif" border="0" /></a>
+  <img src="images/td1.gif" alt="td1" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
   <img src="images/loader.gif" alt="loader" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
 </div>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" /> -->
