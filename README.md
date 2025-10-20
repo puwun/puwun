@@ -106,7 +106,7 @@
 
 <div style="line-height:0;margin:0;padding:0;">
   <img src="images/loader_rt.gif" alt="loader" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
-  <img src="images/td1.gif" alt="GIF" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
+  <img src="images/tdc.gif" alt="GIF" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
   <img src="images/loader.gif" alt="loader" width="100%" style="height:auto;display:block;margin:0;padding:0;" />
 </div>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" /> -->
