@@ -55,7 +55,7 @@
    <img src="/images/img3.png" width="25" style="vertical-align:middle;" />   <em><b> Studying at Veermata Jijabai Technological Institue (VJTI) </b></em> <br/>
    <img src="/images/img4.png" width="20" style="vertical-align:middle;" />   <em><b> Open Source Contributor </b></em><br/>
    <img src="/images/img2.png" width="20" style="vertical-align:middle;" />   <em><b> Summer Intern at NPCI </b></em><br/>
-   <img src="/images/f1.png" width="35" style="vertical-align:middle;" />   <em><b> F1 Enthusiast  </b></em><br/>
+   <img src="/images/f1.png" width="35"  style="vertical-align:middle;"  />   <em><b> F1 Enthusiast  </b></em><br/>
 </p>
 
 <br/>
